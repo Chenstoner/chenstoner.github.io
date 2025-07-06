@@ -14,6 +14,8 @@
 - [Modrinth-模组下载网站](https://modrinth.com/)
 - [CurseForge-模组下载网站](https://www.curseforge.com/)
 - [Namemc-优质皮肤网站](https://www.namemc.com/)
+- [Github-很多优质模组的聚集地](https://www.github.com/)
+
 
 ## 模组推荐
 
