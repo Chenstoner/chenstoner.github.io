@@ -68,6 +68,10 @@
 /give @s allow
 ```
 
+- 拒绝方块
+```
+/give @s deny
+```
 
 
 ## 游戏彩蛋
