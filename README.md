@@ -43,6 +43,33 @@
 
 安装完成后，部分Fabric模组可以跟Forge模组兼容，部分模组则不兼容。
 
+### 一些特殊方块的获取指令
+
+- 命令方块
+
+```
+/give @s command_block
+```
+
+- 结构方块
+
+```
+/give @s structure_block
+```
+
+- 结构空位
+
+```
+/give @s structure_void
+```
+
+- 允许方块
+```
+/give @s allow
+```
+
+
+
 ## 游戏彩蛋
 
 ### 彩虹羊
