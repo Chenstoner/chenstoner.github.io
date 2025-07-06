@@ -37,6 +37,12 @@
 - [信雅互联](https://modrinth.com/mod/connector)
 - [前置模组](https://modrinth.com/mod/forgified-fabric-api)
 
+## 游戏彩蛋
+
+### 彩虹羊
+
+给羊的命名jeb_然后你就会发现羊的毛色会不断的变化
+
 
 安装完成后，部分Fabric模组可以跟Forge模组兼容，部分模组则不兼容。
 
